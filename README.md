@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# CRWN-Clothing for Learn React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a project from Udemy course [Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/).
 
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
